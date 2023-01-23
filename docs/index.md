@@ -5,7 +5,7 @@
 En contrucción
 </center>
 
-Dispositivos de monitorización de personas y salaas
+Dispositivos de monitorización de personas y salas
 
 <center>
 ![ESP32Shield](img/introduccion/ESP32Shield.jpg)
