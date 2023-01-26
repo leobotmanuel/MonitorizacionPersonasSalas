@@ -1,5 +1,5 @@
 # 1. Información de los contenidos
-site_name: Monitorización de personas y salas.
+site_name: Monitorización de ponentes y sala.
 site_description: Desarrollo dispositivos monitorizacion
 site_author: Manuel Hidalgo - LeoBot
 site_url: https://leobotmanuel.github.io/
@@ -32,8 +32,8 @@ extra:
 nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
   - Introducción: index.md
-  #- Misión a Marte: 
-   # - Introducción: misionMarte/index.md
+  - Monitorización Ponentes: 
+    - Introducción: monitorPonentes/introduccion.md
     #- EscornaRover Explorador: misionMarte/explorador.md
     #- Rover Marciano: misionMarte/rover.md
     #- Galeria: misionMarte/galeria.md
