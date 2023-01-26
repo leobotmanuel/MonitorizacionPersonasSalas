@@ -11,5 +11,5 @@ Los datos recogidos por los sensores de transmiten vía bluetooth BLE, entre la 
 
 El dispositivo monitor de ponentes para ser autonomo se completa una alimentación formada por un conversor DC/DC y una batería lipo de 3.7V/1.100mAh.
 <center>
-![04sitemaPonentes](../img/monitorPonente/04sistemaPonentes.png)
+![04sitemaPonentes](../img/monitorPonente/04sistemaPonentes01.png)
 </center>
