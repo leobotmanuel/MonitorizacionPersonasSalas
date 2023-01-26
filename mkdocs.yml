@@ -34,10 +34,15 @@ nav:
   - Introducción: index.md
   - Monitorización Ponentes: 
     - Introducción: monitorPonentes/introduccion.md
-    #- EscornaRover Explorador: misionMarte/explorador.md
-    #- Rover Marciano: misionMarte/rover.md
-    #- Galeria: misionMarte/galeria.md
-    #- Colaboradores: misionMarte/colaboradores.md
+    - ESP32STEAMakers:  monitorPonentes/ESP32STEAMakers.md
+    - Pulsioximetro:  monitorPonentes/pulsioximetro.md
+    - GSR:  monitorPonentes/gsr.md
+  - Monitor Sala:
+    - Introduccion: monitorSala/introduccion.md
+    - ESP8266: monitorSala/ESP8266.md
+    - DS18B20: monitorSala/DS18B20.md
+    - BMP280: monitorSala/BMP280.md
+    - MH-Z19B: monitorSala/MH-Z19B.md
   - Autores: about.md
   
 # 6. Google Analytics
