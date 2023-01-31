@@ -37,6 +37,7 @@ nav:
     - ESP32STEAMakers:  monitorPonentes/ESP32STEAMakers.md
     - Pulsioximetro:  monitorPonentes/pulsioximetro.md
     - GSR (Sensor galvánico):  monitorPonentes/gsr.md
+    - Programa: monitorPonentes/programacion.md
   - Monitor Sala:
     - Introduccion: monitorSala/introduccion.md
     - ESP8266: monitorSala/ESP8266.md

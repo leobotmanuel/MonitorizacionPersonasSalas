@@ -17,7 +17,7 @@ Estos sensores detectan cambios sutiles en la conductancia eléctrica cuando est
 Esquema sensor GSR
 </center>
 
-El sensor tiene 3 terminales alimentaciín (Vcc, -) y una salida analógica.
+El sensor tiene 3 terminales alimentación (Vcc, -) y una salida analógica.
 El código de un programa de testeo para una placa Arduino.
 ~~~
 const int GSR=A0;
