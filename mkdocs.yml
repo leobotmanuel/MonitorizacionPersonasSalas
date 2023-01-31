@@ -44,6 +44,7 @@ nav:
     - DHT22: monitorSala/DHT22.md
     - BMP280: monitorSala/BMP280.md
     - MH-Z19B: monitorSala/MH-Z19B.md
+    - Programación con ESPEasy: monitorSala/ProgramacionESPEasy.md
   - Autores: about.md
   
 # 6. Google Analytics
