@@ -11,7 +11,14 @@ Estos sensores detectan cambios sutiles en la conductancia eléctrica cuando est
 
 [wiki (Seed Studio) sensor GSR](https://wiki-seeedstudio-com.translate.goog/Grove-GSR_Sensor/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc)
 
-El código de un programa de testeo para una placa Arduino. La señal del sensor es analógica.
+<center>
+![12Grove-GSR_esquema](../img/monitorPonente/12Grove-GSR_esquema.png)
+
+Esquema sensor GSR
+</center>
+
+El sensor tiene 3 terminales alimentaciín (Vcc, -) y una salida analógica.
+El código de un programa de testeo para una placa Arduino.
 ~~~
 const int GSR=A0;
 int sensorValue=0;
